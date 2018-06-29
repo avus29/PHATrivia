@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Pharmacology Trivia</string>
+    <string name="score">Score:</string>
+    <string name="question">Question:</string>
+    <string name="question_1">Which of the following is/are components of pharmacokinetics?</string>
+    <string name="question_2">A molecule that  binds to the receptor site to ellicit a response is called?</string>
+    <string name="question_3">The moiety that is responsible for the pharmacodynamic action of
+        a group of related compounds is known as?</string>
+    <string name="question_4">The interaction between two drugs that results  in the effect of one
+    drug being annulled or reduced by the other is known as?</string>
+    <string name="question_5">The half-life of a drug is the time taken for half of the drug to be
+        absorbed into the system?</string>
+    <string name="question_6">Other factors being considered, drugs with a high therapeutic index
+    require measurement of plasma concentration and clearance.</string>
+    <string name="question_7">Which of the following is/are HMA-CoA reductase inhibitors?</string>
+    <string name="question_8">Which of the following is/are bacteriostatic?</string>
+    <string name="question_9">what is the full meaning of DASH</string>
+    <string name="question_10">Phase I metabolism of drugs are mostly conjugation reactions?</string>
+
+    <string-array name="options_1">
+        <item>Absorption</item>
+        <item>Distribution</item>
+        <item>Metabolism</item>
+        <item>Synergism</item>
+    </string-array>
+
+    <string-array name="options_2">
+        <item>Agonist</item>
+        <item>Antagonist</item>
+        <item>Partial Agonist</item>
+        <item>Binder</item>
+    </string-array>
+
+    <string-array name="options_all">
+        <item>True</item>
+        <item>False</item>
+        <item>Unknown</item>
+        <item>None of the above</item>
+    </string-array>
+
+    <string-array name="options_7">
+        <item>Simvastatin</item>
+        <item>Atorvastatin</item>
+        <item>Nystatin</item>
+        <item>Rosuvastatin</item>
+    </string-array>
+
+    <string-array name="options_8">
+        <item>Levofloxacin</item>
+        <item>Gentamycin</item>
+        <item>Azithromycin</item>
+        <item>Cefuroxime</item>
+    </string-array>
+
+    <string name="answer_9">Dietary Approach to Stop Hypertension</string>
+    <string name="answer_3">Pharmacophore</string>
+    <string name="answer_4">Antagonism</string>
+
+</resources>
