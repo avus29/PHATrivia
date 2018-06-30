@@ -5,3 +5,6 @@ Questions range from Multiple Choice Questions(MCQ) and 'German-type' question
 Total number of question is 10.
 Each question answered correctly is added to the score of the player while incorrect answers do not count.
 Rather, the correct answer is displayed to the player.
+
+Below is the link to the apk on G-Drive:
+https://drive.google.com/file/d/1JOC6m2hc3UvKgQzrNJAqOBkberifraHk/view
