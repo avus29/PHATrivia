@@ -1,3 +1,4 @@
+
 # PharmaTrivia
 This is a submission of the ALC #7DaysofCodeChallenge by Tunde Oladimeji(oladimeji.ty@gmail.com)
 This is a single page application that tests participants knowledge of basic pharmacology.
@@ -7,4 +8,4 @@ Each question answered correctly is added to the score of the player while incor
 Rather, the correct answer is displayed to the player.
 
 Here is the link to download the apk on G-Drive:
-https://drive.google.com/file/d/1JOC6m2hc3UvKgQzrNJAqOBkberifraHk/view
+https://drive.google.com/file/d/1JOC6m2hc3UvKgQzrNJAqOBkberifraHk/view?usp=sharing
